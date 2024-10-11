@@ -1,0 +1,1 @@
+The QR Code Scanner is a simple, web-based application that allows users to scan and decode QR codes using their device's camera. It's a fast and efficient tool for reading QR codes in real time without the need for additional software.
